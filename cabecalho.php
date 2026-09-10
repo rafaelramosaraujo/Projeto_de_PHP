@@ -1,5 +1,5 @@
 <?php
-$base_url = '/projeto_php/';
+$base_url = '/Projeto_de_PHP/';
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">

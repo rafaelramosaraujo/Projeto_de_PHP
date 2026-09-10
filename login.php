@@ -30,7 +30,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <p><?php echo $mensagem; ?></p>
     <?php } ?>
 
-    <form action="/projeto_php/login.php" method="POST">
+    <form action="/Projeto_de_PHP/login.php" method="POST">
         <label>E-mail:</label>
         <input type="text" name="email"><br>
 
